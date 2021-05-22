@@ -1,0 +1,14 @@
+# enable time-based saving using the auto_save_interval value
+auto_save: true
+# time between saves, in minutes
+auto_save_interval: 10
+# whether or not to save on player login
+save_on_login: true
+# whether or not to save on player quit
+save_on_quit: true
+# whether or not to save on player join
+save_on_join: true
+# whether or not to save on player being kick
+save_on_kick: false
+# whether or not to save when a player changes worlds
+save_on_world_change: true
